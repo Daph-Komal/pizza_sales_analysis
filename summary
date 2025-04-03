@@ -1,0 +1,31 @@
+# Project Summary: Pizza Sales Analysis
+# Objective:
+The project aims to analyze pizza sales data to uncover key business insights, including revenue trends, popular pizza types, customer preferences, and sales performance over time.
+
+# Key Insights & Analysis:
+
+1. Sales Performance:
+Total revenue generated from pizza sales.
+Monthly/weekly sales trends to identify peak sales periods.
+
+2. Best-Selling Pizzas:
+Top-performing pizza flavors based on revenue and quantity sold.
+Customer preferences for different pizza sizes and types.
+
+3. Order Trends & Customer Behavior:
+Average order value and frequency of repeat orders.
+Impact of promotions or discounts on sales performance.
+
+4. Profitability Analysis:
+Profit margins for different pizza categories.
+Cost-effectiveness of different pizza sizes and ingredients.
+
+* Tools & Technologies Used:
+Power BI for interactive dashboards and visual analytics.
+Excel/CSV for raw data storage and processing.
+Data Cleaning & Transformation using Power Query.
+
+* Business Impact:
+Helps the pizza business optimize its menu by identifying best-sellers.
+Assists in inventory planning based on demand patterns.
+Provides data-driven insights for pricing and promotional strategies.
